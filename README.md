@@ -134,23 +134,23 @@ Caso o download da base esteja corrompendo, baixe utilizando o [GitHub Desktop](
             <td>Interface Gráfica</td>
           </tr>
           <tr>
-            <td>:heavy_check_mark:</td>
+            <td>:white_circle:</td>
             <td>Autoupdate</td>
           </tr>
           <tr>
-            <td>:heavy_check_mark:</td>
+            <td>:white_circle:</td>
             <td>Download de jogos Crackeds</td>
           </tr>
           <tr>
-            <td>:heavy_check_mark:</td>
+            <td>:white_circle:</td>
             <td>Criação de pastas</td>
           </tr>
           <tr>
-            <td>:heavy_check_mark:</td>
+            <td>:white_circle:</td>
             <td>Sistema de notícias</td>
           </tr>
           <tr>
-            <td>:heavy_check_mark:</td>
+            <td>:white_circle:</td>
             <td>Sistema de verificação de ficheiros</td>
           </tr>
           <tr>
