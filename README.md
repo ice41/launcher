@@ -23,17 +23,17 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ice41/updater">
+  <a href="https://github.com/ice41/launcher">
    <img src="https://i.imgur.com/yn3xIOi.png" alt="Nped" width="140" height="180">
   </a>
 <br />
 <br />
-<img src="https://img.shields.io/github/downloads/ice41/updater/total" alt=""/>
-<img src="https://img.shields.io/github/languages/count/ice41/updater" alt=""/>
-<img src="https://img.shields.io/github/languages/top/ice41/updater?color=yellow" alt=""/>
-<img src="https://img.shields.io/bitbucket/issues/ice41/updater" alt=""/>
-<img src="https://img.shields.io/github/forks/ice41/updater?style=social" alt=""/>
-<img src="https://img.shields.io/github/stars/ice41/updater?style=social" alt=""/>
+<img src="https://github.com/ice41/launcher/total" alt=""/>
+<img src="https://img.shields.io/github/languages/count/ice41/launcher" alt=""/>
+<img src="https://img.shields.io/github/languages/top/ice41/launcher?color=yellow" alt=""/>
+<img src="https://img.shields.io/bitbucket/issues/ice41/launcher" alt=""/>
+<img src="https://img.shields.io/github/forks/ice41/launcher?style=social" alt=""/>
+<img src="https://img.shields.io/github/stars/ice41/launcher?style=social" alt=""/>
 </div>
   
 
@@ -78,7 +78,7 @@ Futuramente alguns jogos multiplayer em Python vão ser adicionados ao laucher
 
 ##  Nped Launcher
 
-- **Desenvolvido em 2024 para varias finalidades**
+- **Repaginado em 2025 para varias finalidades**
 - **Todo o codigo feitos por ice41**.
 - **Ice41 realizou diversos projetos em servidores de Portugal e Brasil sendo Gestor e programador do servidor**.
 
