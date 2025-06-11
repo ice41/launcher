@@ -72,7 +72,7 @@ Futuramente alguns jogos multiplayer em Python vão ser adicionados ao laucher
  <p align="center"> Exemplo grafico atual:</p>
  <div align="center">
   <a href="https://i.imgur.com/9hpBM1h.png">
-    <img src="https://i.imgur.com/9hpBM1h.png" height="400" width="400" alt="Launcher NPED" title="Launcher NPED">
+    <img src="https://i.imgur.com/CD1YATP.png" alt="Launcher NPED" title="Launcher NPED">
   </a>
 </div>
 
