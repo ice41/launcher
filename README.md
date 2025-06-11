@@ -58,11 +58,11 @@ Futuramente alguns jogos multiplayer em Python vão ser adicionados ao laucher
       <br />
       <a href="https://github.com/ice41/updater/wiki"><strong>Explore the docs »</strong></a>&nbsp;&nbsp;&nbsp;
       ·
-      <a href="https://github.com/ice41/updater/releases/download/0.0.26/nped-0.0.26.zip">Download</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/ice41/launcher/releases">Download</a>&nbsp;&nbsp;&nbsp;
       ·
-      <a href="https://github.com/ice41/updater/issues">Report Bug</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://github.com/ice41/launcher/issues">Report Bug</a>&nbsp;&nbsp;&nbsp;
       ·
-      <a href="https://github.com/ice41/updater/issues">Request Feature</a>
+      <a href="https://github.com/ice41/launcher/issues">Request Feature</a>
   </p>
 </div>
 
